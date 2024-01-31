@@ -1,3 +1,3 @@
 # ZonShop-Frontend
 
-This project is educational
+This project is educational.
